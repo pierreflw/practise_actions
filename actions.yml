@@ -1,7 +1,7 @@
 
 name: "Hello Action"
 description: "Une action simple pour GitHub"
-author: "Jensone"
+author: "pierreflw"
 inputs:
   name:
     description: "Nom de l'utilisateur"
